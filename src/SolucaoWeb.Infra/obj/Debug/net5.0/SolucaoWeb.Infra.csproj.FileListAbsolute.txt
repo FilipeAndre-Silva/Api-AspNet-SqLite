@@ -1,0 +1,15 @@
+C:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.csproj.AssemblyReference.cache
+C:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.AssemblyInfoInputs.cache
+C:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.AssemblyInfo.cs
+C:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.csproj.CoreCompileInputs.cache
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\bin\Debug\net5.0\SolucaoWeb.Infra.deps.json
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\bin\Debug\net5.0\SolucaoWeb.Infra.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\bin\Debug\net5.0\ref\SolucaoWeb.Infra.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\bin\Debug\net5.0\SolucaoWeb.Infra.pdb
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\bin\Debug\net5.0\SolucaoWeb.Domain.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\bin\Debug\net5.0\SolucaoWeb.Domain.pdb
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.csproj.CopyComplete
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\ref\SolucaoWeb.Infra.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Infra\obj\Debug\net5.0\SolucaoWeb.Infra.pdb

@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Api\\SolucaoWeb.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Api\\SolucaoWeb.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Api\\SolucaoWeb.Api.csproj",
+        "projectName": "SolucaoWeb.Api",
+        "projectPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Api\\SolucaoWeb.Api.csproj",
+        "packagesPath": "C:\\Users\\fasilva10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fasilva10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Infra\\SolucaoWeb.Infra.csproj": {
+                "projectPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Infra\\SolucaoWeb.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Domain\\SolucaoWeb.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Domain\\SolucaoWeb.Domain.csproj",
+        "projectName": "SolucaoWeb.Domain",
+        "projectPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Domain\\SolucaoWeb.Domain.csproj",
+        "packagesPath": "C:\\Users\\fasilva10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fasilva10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Infra\\SolucaoWeb.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Infra\\SolucaoWeb.Infra.csproj",
+        "projectName": "SolucaoWeb.Infra",
+        "projectPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Infra\\SolucaoWeb.Infra.csproj",
+        "packagesPath": "C:\\Users\\fasilva10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fasilva10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Domain\\SolucaoWeb.Domain.csproj": {
+                "projectPath": "C:\\Users\\fasilva10\\My_workspace\\SolucaoWeb\\src\\SolucaoWeb.Domain\\SolucaoWeb.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

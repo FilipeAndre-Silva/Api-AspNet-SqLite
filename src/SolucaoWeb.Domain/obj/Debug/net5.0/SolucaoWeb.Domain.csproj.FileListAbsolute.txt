@@ -1,0 +1,12 @@
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\bin\Debug\net5.0\SolucaoWeb.Domain.deps.json
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\bin\Debug\net5.0\SolucaoWeb.Domain.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\bin\Debug\net5.0\ref\SolucaoWeb.Domain.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\bin\Debug\net5.0\SolucaoWeb.Domain.pdb
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\SolucaoWeb.Domain.csproj.AssemblyReference.cache
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\SolucaoWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\SolucaoWeb.Domain.AssemblyInfoInputs.cache
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\SolucaoWeb.Domain.AssemblyInfo.cs
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\SolucaoWeb.Domain.csproj.CoreCompileInputs.cache
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\SolucaoWeb.Domain.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\ref\SolucaoWeb.Domain.dll
+c:\Users\fasilva10\My_workspace\SolucaoWeb\src\SolucaoWeb.Domain\obj\Debug\net5.0\SolucaoWeb.Domain.pdb

@@ -1,0 +1,23 @@
+-Instalar o EF Framework Core SQLite(Para a conexão com o banco SQLite):
+	>dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 5.0.0
+		
+-Instalar o EF Framework Core Design(Para gerar e executar as migrações):
+	>dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.0
+
+-Deve ter o ef-global no ambiente:
+	dotnet tool install --global dotnet-ef
+
+
+
+
+No diretorio do projeto Infra:
+  dotnet ef --startup-project ..\MiniSocial.Api\  migrations add MigrationName
+
+  dotnet ef --startup-project ..\MiniSocial.Api\  database update
+
+Obs: As migrações ficam no projeto de infra.
+
+string de conexão para o SqLite local:
+  "ConnectionStrings": {
+    "DefaultConnection": "DataSource=app.db;Cache=Shared;"
+  }
